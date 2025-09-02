@@ -71,3 +71,4 @@ The difference in means between group line and group skill is equal to 0.0000094
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+In this write up I learned how to read multiple graphs such as the box plot and the quartile graph. I also learned how to read the favstat which allowed me to observe the number of players in both categories and the number of average pushups each category does. finally I learned to read the t-test which allowed me to get the p value which in this situation was too small therefore, I was able to conclude that there is a large margin between the skilled and line players. 
